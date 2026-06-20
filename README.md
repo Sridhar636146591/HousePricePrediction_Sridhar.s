@@ -41,17 +41,17 @@ The models were trained and evaluated to predict house prices. Performance was c
 ## Repository Structure
 
 ```
-HousePricePrediction_Sridhar S/
+HousePricePrediction_Sridhar.s/
 │
-├── HousePricePrediction_Sridhar S/
-│   ├── analysis.ipynb
-│   ├── Housing.csv
-│   ├── summary.docx
-│   └── charts/
-│       ├── chart1_price_distribution.png
-│       ├── chart2_correlation_heatmap.png
-│       └── chart3_actual_vs_predicted.png
-└── README.md
+├── README.md
+├── analysis.ipynb
+├── Housing.csv
+├── summary.docx
+│
+└── charts/
+    ├── chart1_price_distribution.png
+    ├── chart2_correlation_heatmap.png
+    └── chart3_actual_vs_predicted.png
 ```
 
 ## Author
